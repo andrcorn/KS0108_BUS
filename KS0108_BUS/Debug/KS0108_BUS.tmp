@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega8515"</DEVICE>
+ <WORKING_DIR>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m8515def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\Debug\KS0108_BUS.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>KS0108_BUS.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>KS0108_BUS.map</FILE>
+  <FILE>KS0108_BUS.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Init><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>40</LINE></Init>
+  <Gen><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>151</LINE></Gen>
+  <WaitMcs><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>49</LINE></WaitMcs>
+  <LcdPortsInit><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>60</LINE></LcdPortsInit>
+  <LcdRst><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>71</LINE></LcdRst>
+  <LcdInit><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>78</LINE></LcdInit>
+  <LcdByteSetXY><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>94</LINE></LcdByteSetXY>
+  <LcdWriteByte><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>114</LINE></LcdWriteByte>
+  <LcdReadByte><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>126</LINE></LcdReadByte>
+  <LcdFill><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>136</LINE></LcdFill>
+  <loopY><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>138</LINE></loopY>
+  <loopX><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>140</LINE></loopX>
+  <END><FILE>c:\users\андрей\Documents\Atmel Studio\7.0\KS0108_BUS\KS0108_BUS\main.asm</FILE><LINE>183</LINE></END>
+ </LABELS>
+</ASSEMBLER_INFO>
